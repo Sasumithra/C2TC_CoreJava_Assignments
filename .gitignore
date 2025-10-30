@@ -1,1 +1,13 @@
-/bin/
+# Ignore Eclipse workspace files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Ignore build folders
+bin/
+target/
+
+# Ignore temporary and log files
+*.log
+*.tmp
